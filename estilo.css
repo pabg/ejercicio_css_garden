@@ -1,0 +1,15 @@
+body{
+	background-image: url("logo.jpg");
+	font-family: "Courier", sans-serif;
+	margin-right: 30%;  
+}
+h1{
+    color: #E6E6E6; 
+    border-style: groove;
+    margin-right: 70%; 
+}
+h2{
+    color: #E6E6E6; 
+    border-style: groove;
+    margin-right: 60%
+}
